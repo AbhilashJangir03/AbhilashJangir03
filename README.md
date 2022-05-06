@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AbhilashJangir03
-- 👀 I’m interested in Data Science and Microsoft Technologies.
-- 🌱 I’m currently learning Computer Vision and ML in python and C#
-- 💞️ I’m looking to collaborate on Data Science and Microsoft Technologies related projects.
 - 📫 How to reach me abhilash.jangir@intel.com
 
 <!---
