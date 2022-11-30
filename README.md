@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AbhilashJangir03
-- 📫 How to reach me abhilash.jangir@intel.com
 
 <!---
 AbhilashJangir03/AbhilashJangir03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
